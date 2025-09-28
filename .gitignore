@@ -1,0 +1,47 @@
+# Python virtual environments
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyd
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Test & coverage
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# Database & migrations
+migrations/
+*.db
+*.sqlite3
+
+# MyPy type checker cache
+.mypy_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Redis dump
+dump.rdb
+
+# Local storage files
+storage/
+uploads/
